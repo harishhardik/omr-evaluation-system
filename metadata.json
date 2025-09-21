@@ -1,0 +1,5 @@
+{
+  "name": "Automated OMR Evaluation & Scoring System",
+  "description": "An AI-powered web application to automatically evaluate OMR sheets from images. It provides subject-wise and total scores, reducing manual effort and speeding up result delivery.",
+  "requestFramePermissions": []
+}
